@@ -77,3 +77,7 @@ d.  Tambahkan baris tabel footer dengan isi average dan kalkulasikan nilai rata-
 </details>
 
 
+### Demo answer for task no 4
+
+![demo_no4](./demo/answer_no4.png)
+
