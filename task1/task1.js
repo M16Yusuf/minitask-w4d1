@@ -3,14 +3,17 @@ const lampYellow = 2;
 const lampGreen = 3;
 
 
-const traffic = async function () {
+let loop = 0;
+async function traffic () {
+    loop++;
+    console.log(loop);
     const lampuMerah = document.querySelector("section.lamp div:first-child");
     for(let i = lampRed; i>= 0;i--){
         lampuMerah.className = "merahnyala";
         await new Promise(resolve=> setTimeout(resolve, 1000));
         if (i == 0){
             lampuMerah.className = "merahmati";
-            break;
+            continue;
         }
         lampuMerah.textContent = parseInt(lampuMerah.textContent) - 1;
     }
@@ -22,7 +25,7 @@ const traffic = async function () {
         await new Promise(resolve=> setTimeout(resolve, 1000));
         if (i == 0){
             lampuKuning.className = "kuningmati";
-            break;
+            continue;
         }
         lampuKuning.textContent = parseInt(lampuKuning.textContent) - 1;
     }
@@ -34,7 +37,7 @@ const traffic = async function () {
         await new Promise(resolve=> setTimeout(resolve, 1000));
         if (i == 0){
             lampuHijau.className = "hijaumati";
-            break;
+            continue;
         }
         lampuHijau.textContent = parseInt(lampuHijau.textContent) - 1;
     }
