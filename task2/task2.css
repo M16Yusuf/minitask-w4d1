@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+
+section{
+    display: grid;
+    grid-template-columns: repeat(8, auto);
+    background-color: chocolate;
+    width: max-content;
+    height: max-content;
+    gap: 2px;
+    padding: 10px;
+}
+
+div.hitam{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+div.putih{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}

@@ -14,6 +14,9 @@ membuat tampilan lampu lalu lintas dengan menggunakan HTML dan CSS
 </details>
 
 
+### Demo answer for task no 1 
+
+![demo_no1](./demo/answer_no1.gif)
 
 <details>
 <summary> Details objective task nomor 2 (Click to expand!) </summary>
@@ -26,7 +29,9 @@ b. Diperbolehkan untuk memberikan styling sebagus mungkin
 
 </details>
 
+### Demo answer for task no 2
 
+![demo_no2](./demo/answer_no2.png)
 
 <details>
 <summary>  Details objective task nomor 3 (Click to expand!) </summary>
@@ -61,11 +66,8 @@ Berdasarkan struktur tabel dibawah ini, ubahlah:
 
 ```
 a. Tambahkan baris baru dengan nama charlie dan nilai 92
-
 b. ubah nilai bob menjadi 89
-
 c. Berikan kelas top-score pada baris dengan nama Alice
-
 d.  Tambahkan baris tabel footer dengan isi average dan kalkulasikan nilai rata-ratanya
 ```
 
