@@ -54,6 +54,9 @@ f. Masukan elemen div profile-card ke dalam body
 </details>
 
 
+### Demo answer for task no 3
+
+![demo_no3](./demo/answer_no3.png)
 
 <details>
 <summary>  Details objective task nomor 4 (Click to expand!) </summary>

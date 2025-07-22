@@ -1,0 +1,17 @@
+
+body{
+    background-color: blanchedalmond;
+    justify-items: center;
+}
+
+div.profile-card{
+    background-color: white;
+    width: max-content;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+div h2{
+    font-weight: bolder;
+}
