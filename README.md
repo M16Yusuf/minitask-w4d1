@@ -98,6 +98,6 @@ d.  Tambahkan baris tabel footer dengan isi average dan kalkulasikan nilai rata-
 
 ### result review task number 4
 
-![pembasahan_4](./demo/pembahasan/nomor4.png)
+![pembasahan_4](./demo/pembahasan/nomor4-revisi.png)
 
 </details>
