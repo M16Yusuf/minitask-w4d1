@@ -86,7 +86,7 @@ d.  Tambahkan baris tabel footer dengan isi average dan kalkulasikan nilai rata-
 ## Review result of minitask Week 4 day 1
 
 <details>
-<summary>  Details objective task nomor 4 (Click to expand!) </summary>
+<summary>  Details result review (Click to expand!) </summary>
 
 ### result review task number 2
 
